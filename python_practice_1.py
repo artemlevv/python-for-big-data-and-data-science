@@ -1,0 +1,1 @@
+print("Artem Levchenko, IPZ_1 2025")
